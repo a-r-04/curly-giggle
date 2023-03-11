@@ -1,0 +1,230 @@
+.
+├── C
+│   ├── Academy, Computer Programming - Python Data Science_ Learn Python in a Week and Master It. An Hands-On Introduction to Big Data Analysis and Mining, a Project-Based Guide with Practical Exercises (7 D.azw3
+│   ├── Aditya Y. Bhargava - Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).epub
+│   ├── Alan T. Norman - Hacking_ Computer Hacking Beginners Guide How to Hack Wireless Network, Basic Security and Penetration Testing, Kali Linux, Your First Hack (2016).epub
+│   ├── Algorithms Unlocked by Thomas H. Cormen [Cormen, Thomas H.] (z-lib.org).epub
+│   ├── Aronowitz, Alexander - Hacking_ Linux Basics for Hackers (2020).epub
+│   ├── Basic Computer Course_ A Freshers Guide To Modern Day Computing ( PDFDrive ).epub
+│   ├── Ben Buchanan - The Hacker and the State_ Cyber Attacks and the New Normal of Geopolitics-Harvard University Press (2020).epub
+│   ├── Blockchain Revolution How the Technology Behind Bitcoin and Other Cryptocurrencies Is Changing the World by Tapscott, Don, Tapscott, Alex (z-lib.org).epub
+│   ├── Cannon, Jason - Shell Scripting_ How to Automate Command Line Tasks Using Bash Scripting and Shell Programming (2015).epub
+│   ├── Chris Johnson, Jayant Varma - Pro Bash Programming, Second Edition_ Scripting the GNU_Linux Shell-Apress (2015).epub
+│   ├── Dafydd Stuttard, Marcus Pinto - The web application hacker’s handbook_ finding and exploiting security flaws-Wiley (2011).epub
+│   ├── Daniel Regalado, Shon Harris, Allen Harper, Chris Eagle, Jonathan Ness, Branko Spasojevic, Ryan Linn, Stephen Sims - Gray Hat Hacking The Ethical Hacker's Handbook-McGraw-Hill Osborne Media (2015).epub
+│   ├── Dan Park - Python Crash Course_ A Complete Beginner's Guide for Python Coding and Data Visualization. A Hands-On, Project-Based Introduction to Programming (Linux, OS X, Windows, Troubleshooting)-Inde.epub
+│   ├── Data Structures and Algorithms Made Easy Data Structures and Algorithmic Puzzles by Narasimha Karumanchi (z-lib.org).epub
+│   ├── Data Structures and Algorithms Made Easy in Java Data Structure and Algorithmic Puzzles by Narasimha Karumanchi [Karumanchi, Narasimha  Karumanchi, Narasimha] (z-lib.org).epub
+│   ├── Deep Thinking Where Machine Intelligence Ends and Human Creativity Begins by Garry Kasparov, Mig Greengard (z-lib.org).epub
+│   ├── Diogenes, Yuri_Ozkaya, Erdal - Cybersecurity – Attack and Defense Strategies_ Infrastructure security with Red Team and Blue Team tactics (2018) - libgen.li.epub
+│   ├── Drescher, Daniel - Blockchain basics_ a non-technical introduction in 25 steps-Apress (2017).epub
+│   ├── Ebrahim, Mokhtar_Mallett, Andrew - Mastering Linux shell scripting a practical guide to Linux command- line, Bash scripting, and Shell programming (2018, Packt Publishing) - libgen.lc.epub
+│   ├── Eric Matthes - Python crash course _ a hands-on, project-based introduction to programming-No Starch Press (2019).epub
+│   ├── Grokking Algorithms An illustrated guide for programmers and other curious people by Aditya Y. Bhargava (z-lib.org).epub
+│   ├── Growth, Darwin - Linux_ This Book Includes 4 Manuscripts. The Underground Bible to the UNIX Operating System with Tools On Security and Kali Hacking to Understand Computer Programming, Data Science an.epub
+│   ├── Hacking.  Computer Hacking, Security Testing,Penetration Testing, and Basic Security ( PDFDrive ).epub
+│   ├── How To Hack Like a ps A Step By Step Process For Breaking Into A Bank by Sparc Flow .pdf
+│   ├── Jason Cannon - Command Line Kung Fu_ Bash Scripting Tricks, Linux Shell Programming Tips, and Bash One-liners-CreateSpace Independent Publishing Platform (2014).epub
+│   ├── Kim, Peter - The Hacker Playbook 3_ Practical Guide to Penetration Testing-Independently Published_Secure Planet (2018).epub
+│   ├── Learn Python in One Day and Learn It Well Python for Beginners with Hands-on Project. The only book you need to start coding in Python immediately by Chan, Jamie (z-lib.org).epub
+│   ├── Learn Python the Hard Way A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed A. Shaw (z-lib.org).azw3
+│   ├── Mastering Blockchain Unlocking the Power of Cryptocurrencies, Smart Contracts, and Decentralized Applications by Lorne Lantz Daniel Cawrey (z-lib.org).epub
+│   ├── Matthew Gimson - Linux Command Line_  FAST and EASY!_ Linux Commands, Bash Scripting Tricks, Linux Shell Programming Tips and Bash One-Liners-CreateSpace Independent Publishing Platform (2015).epub
+│   ├── Michael Erbschloe - Social Engineering Hacking Systems, Nations, and Societies-CRC Press (2019).epub
+│   ├── OccupyTheWeb - Linux Basics for Aspiring Hackers_ Getting Started with Networking, Bash, and Security in Kali-No Starch Press (2018).azw3
+│   ├── Peter Kim - The Hacker Playbook_ Practical Guide To Penetration Testing-CreateSpace Independent Publishing Platform (2014).epub
+│   ├── progit.epub
+│   ├── Programming+for+Data+Science,+Media+Art,+and+Robotics+freebook (1).pdf
+│   ├── Programming+for+Data+Science,+Media+Art,+and+Robotics+freebook.pdf
+│   ├── Richard Blum, Christine Bresnahan - Linux Command Line and Shell Scripting Bible (2015, Wiley) - libgen.lc.epub
+│   ├── Richard Blum, Christine Bresnahan - Linux Command Line and Shell Scripting Bible-Wiley (2015).epub
+│   ├── Richard Blum_ Christine Bresnahan - Linux Command Line and Shell Scripting Bible-Wiley (2021).epub
+│   ├── Sebastiaan Tammer - Learn Linux Shell Scripting – Fundamentals of Bash 4.4_ A comprehensive guide to automating administrative tasks with the Bash shell-Packt Publishing (2018).epub
+│   ├── Simon Singh - The Code Book_ How to Make It, Break It, Hack It, Crack It-Delacorte Press (2003).epub
+│   ├── Sparc Flow - How to Hack Like a Ghost_ Breaching the Cloud-No Starch Press (2021).epub
+│   └── Speed Up Your Python with Rust.epub
+├── cali
+│   ├── (1) Al Kavadlo, Danny Kavadlo - Get Strong_ The Ultimate 16-Week Transformation Program For Gaining Muscle and Strength--Using The Power Of Progressive Calisthenics-Dragon Door Publications (2017).epub
+│   ├── Ashley Kalym_ Mike Seymour_ Chris Frosin - Complete Calisthenics_ The Ultimate Guide To Bodyweight Exercise-Ashley Kalym (2014).epub
+│   ├── Kassel, Markus A - Calisthenics Exercises for Getting Shredded and Developing Extreme Core Strength Superhero Six-Pack_ the Complete Bodyweight Training Program to Ripped Abs and a Powerful Core (2016.epub
+│   ├── Paul Wade - Convict Conditioning_ How to Bust Free of All Weakness Using the Lost Secrets of Supreme Survival Strength-Dragon Door Publications (2011).mobi
+│   └── Steven Low, DPT - Overcoming Gravity_ A Systematic Approach to Gymnastics and Bodyweight Strength-Battle Ground Creative (2016) (1).epub
+├── CB
+│   ├── Chess_ The Complete Guide To Chess - Master_ Chess Tactics, Chess Openings, and Chess Strategies ( PDFDrive ).epub
+│   ├── Ilya Maizelis - The Soviet Chess Primer (2014, Quality Chess Uk Llp) - libgen.li.pdf
+│   ├── Michael Stean - Simple Chess-Dover Publications (2013).epub
+│   ├── The Complete Manual of Positional Chess_ The Russian Chess School 2.0, Volume 1_ Opening and Middlegame ( PDFDrive ).epub
+│   ├── The Complete Manual of Positional Chess_ The Russian Chess School 2.0, Volume 1_ Opening and Middlegame ( PDFDrive ).pdf
+│   ├── The_Soviet_Chess_Primer_by_Ilya_Maizelis)_11594397_(z-lib.org).pdf
+│   ├── [The Soviet Chess Primer] I.Maizelis - The Soviet Chess Primer (0) - libgen.lc.pdf
+│   └── The Soviet Chess Primer ( PDFDrive ).epub
+├── F
+├── general
+│   ├── 100 Greatest Speeches in History ( PDFDrive ).epub
+│   ├── 13 Things Mentally Strong People Dont Do Take Back Your Power, Embrace Change, Face Your Fears, and Train Your Brain for... (Amy Morin) (z-lib.org).epub
+│   ├── 178921748-50015849-Attitude-is-Everything-Jeff-Keller-pdf ( PDFDrive ).epub
+│   ├── 1 - Dune.epub
+│   ├── (1) Olivier Roland - The Way of the Intelligent Rebel (2021).mobi
+│   ├── 2015.553406.Meditation-And.pdf
+│   ├── 75 Productivity Hacks_System Sunday.pdf
+│   ├── Adam Grant - Think Again_ The Power of Knowing What You Don't Know-Penguin Publishing Group (2021) (1).epub
+│   ├── A. J Finn - The Woman in the Window_ A Novel-Harper (2018).epub
+│   ├── Allen, James - As a man thinketh_ classic wisdom for proper thought, strong character, & right actions-F+W Media_Adams Media (2012).epub
+│   ├── A Mind For Numbers by Barbara Oakley, PhD (z-lib.org).epub
+│   ├── A Mind For Numbers How to Excel at Math and Science (Even if You Flunked Algebra) by Barbara Oakley (z-lib.org) (1) (1).epub
+│   ├── A Mind For Numbers How to Excel at Math and Science (Even if You Flunked Algebra) by Barbara Oakley (z-lib.org) (1).epub
+│   ├── Anything You Want 40 Lessons for a New Kind of Entrepreneur by Derek Sivers (z-lib.org).epub
+│   ├── Are You Ready to Succeed by Srikumar S. Rao (z-lib.org).epub
+│   ├── Ashwin Sanghi, James Patterson - Private India_ City on Fire-Arrow (20 July 2014).epub
+│   ├── Attack The Subtle Art of Winning Brilliantly by Neil McDonald (z-lib.org).epub
+│   ├── Attitude is Everything  ( PDFDrive ).epub
+│   ├── (Before 8AM) Hal Elrod - The Miracle Morning_ The Not-So-Obvious Secret Guaranteed to Transform Your Life-Hal Elrod (2012).mobi
+│   ├── Both, David - Using and Administering Linux_ Volume 3_ Zero to Sysadmin_ Network Services-Apress (2020).pdf
+│   ├── Charles Conrad & James Allen & Sam Torode - As a Man Thinketh_ 21st Century Edition-CreateSpace Independent Publishing Platform (2017).epub
+│   ├── Chris MacLeod MSW - The Social Skills Guidebook_ Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are (2016).epub
+│   ├── Clear, James - Atomic habits_ an easy and proven way to build good habits and break bad ones-Random House Business Books (2018).epub
+│   ├── Daniel Regalado & Shon Harris & Allen Harper & Chris Eagle & Jonathan Ness & Branko Spasojevic & Ryan Linn & Stephen Sims - Gray Hat Hacking The Ethical Hacker's Handbook-McGraw-Hill Education (2015).epub
+│   ├── Daniel Spade - How To Analyze People_ 13 Laws About the Manipulation of the Human Mind, 7 Strategies to Qu... Figure Out Body Language, Dive into Dark Psychology and Persuasion for Making People Do What You Want (2019) - libgen.lc.epub
+│   ├── Darius Foroux - Do It Today_ Overcome Procrastination, Improve Productivity, and Achieve More Meaningful Things-North Eagle Publishing (2018).epub
+│   ├── Darius Foroux - THINK STRAIGHT_ Change Your Thoughts, Change Your Life-Darius Foroux (2017).epub
+│   ├── Darius Foroux - What It Takes To Be Free-North Eagle Publishing (2019).epub
+│   ├── [] David Both - Using and Administering Linux_ Volume 1_ Zero to SysAdmin_ Getting Started (2020, Apress).pdf
+│   ├── [] David Both - Using and Administering Linux_ Volume 2_ Zero to SysAdmin_ Advanced Topics (2020, Apress) [10.1007_978-1-4842-5455-4].pdf
+│   ├── David Christian - Origin Story_ A Big History of Everything-Penguin Books (2018).epub
+│   ├── Deep Work Rules for focused success in a distracted world by Cal Newport (z-lib.org).epub
+│   ├── Discourses and Selected Writings by Epictetus, Robert Dobbin (z-lib.org).epub
+│   ├── Do Epic Shit by Ankur warikoo (z-lib.org).epub
+│   ├── do-the-hard-things-first-how-to-win-over-procrastination-and-master-the-habit-of-doing-difficult-work.epub
+│   ├── Eat That Frog for Students 22 Ways to Stop Procrastinating and Excel in School by Brian Tracy Anna Leinberger (z-lib.org).epub
+│   ├── Effortless English _ learn to speak English like a native ( PDFDrive ).epub
+│   ├── Ego is the Enemy The Fight to Master Our Greatest Opponent by Ryan Holiday (z-lib.org).epub
+│   ├── epdf.pub_the-alchemist (1).epub
+│   ├── epub-download-limitless-by-jim-kwik-9781401958237-7fe.epub
+│   ├── Finish What You Start The Art of Following Through, Taking Action, Executing,  Self-Discipline by Peter Hollins (z-lib.org).epub
+│   ├── Foroux, Darius - Win Your Inner Battles_ Defeat The Enemy Within and Live With Purpose-Darius Foroux_second edition (December (2015).azw3
+│   ├── Frank Herbert - Dune-Orion Publishing Group (2020).epub
+│   ├── George C. Clason - The Richest Man In Babylon-George C. Clason (2013).epub
+│   ├── gladwell_malcolm_outliers_the_story_of_success.pdf
+│   ├── Gladwell, Malcolm - The tipping point_ how little things can make a big difference (2002_2006, Back Bay_Little, Brown and Co) - libgen.lc.epub
+│   ├── Good Strategy_Bad Strategy ( PDFDrive ).epub
+│   ├── Hari, Johann - Stolen Focus_ Why You Can't Pay Attention--and How to Think Deeply Again-Random House Digital (2022).epub
+│   ├── Holiday, Ryan - The obstacle is the way_ the timeless art of turning trials into triumph (2014, Portfolio_Penguin_Penguin USA) - libgen.lc.epub
+│   ├── How To Analyze People 13 Laws About the Manipulation of the Human Mind, 7 Strategies to Quickly Figure Out Body Language, Dive... (Daniel Spade) (z-lib.org).epub
+│   ├── How to become a straight-A student the unconventional strategies real college students use to score high while studying less by Newport, Cal (z-lib.org).epub
+│   ├── How to talk to anyone 92 little tricks for big success in relationships by Leil Lowndes (z-lib.org).epub
+│   ├── How to talk to anyone, anytime, anywhere the secrets of good communication by Gilbert, BillKing, Larry (z-lib.org).epub
+│   ├── How to Win Friends and Influence People in the Digital Age ( PDFDrive ).epub
+│   ├── How To Win Friends and Influence People ( PDFDrive ).epub
+│   ├── Hyperfocus_ The New Science of Attention, Productivity, and Creativity ( PDFDrive ).epub
+│   ├── Ikigai _ the Japanese secret to a long and happy life ( PDFDrive ).epub
+│   ├── Indias Glorious Scientific Tradition by Suresh Soni (z-lib.org).epub
+│   ├── [ITpro collection] Bresnahan, Christine_Cox, Jack_Blum, Richard - Linux Command Line and Shell Scripting Bible (2011, Wiley Pub) - libgen.lc.mobi
+│   ├── James W. Williams, - Communication Skills Training_ How to Talk to Anyone, Connect Effortlessly, Develop Charisma, and Become a People Person (2020) - libgen.li (1).epub
+│   ├── Jason Selk, Tom Bartow, Matthew Rudy - Organize Tomorrow Today_ 8 Ways to Retrain Your Mind to Optimize Performance at Work and in Life-Da Capo Lifelong Books (2015).epub
+│   ├── Jeffers, Susan J - Feel the Fear and Do It Anyway®_ Dynamic techniques for turning Fear, Indecision and Anger into Power, Action and Love-Jeffers Press (2007).epub
+│   ├── J.e. Gordon - Structures_ Or Why Things Don't Fall Down-Da Capo Press (2003).epub
+│   ├── Jen Sincero - You Are a Badass_ How to Stop Doubting Your Greatness and Start Living an Awesome Life (2013, Running Press) - libgen.lc.epub
+│   ├── Jesse Itzler - Living with a SEAL_ 31 Days Training with the Toughest Man on the Planet-Center Street (2015).epub
+│   ├── Jiddu Krishnamurti - Think on These Things (2014, HarperCollins e-Books) - libgen.lc.epub
+│   ├── Jiddu Krishnamurti - What Are You Doing With Your Life_ (2018, Rider) - libgen.lc.epub
+│   ├── John, Richard St - Traits Successful People Have In Common_ 8 To Be Great-Train of Thought Arts Inc. (2012).epub
+│   ├── John Viega & David LeBlanc & Michael Howard - 24 deadly sins of software security _ programming flaws and how to fix them-McGraw-Hill (2010).epub
+│   ├── Jordan B. Peterson - 12 Rules for Life _ An Antidote to Chaos-Penguin Books.epub
+│   ├── Jordan B. Peterson - 12 Rules for Life_ An Antidote to Chaos-Random House Canada (2018).epub
+│   ├── Jordan Ellenberg - How Not to Be Wrong_ The Power of Mathematical Thinking-Penguin Press HC, The (2014).epub
+│   ├── Josh Waitzkin - The Art of Learning_ An Inner Journey to Optimal Performance-Free Press (2008).epub
+│   ├── King, Dale - EFFECTIVE COMMUNICATION SKILLS_ The Nine-Keys Guidebook for Developing the Art of Persuasion through Public Speaking, Social Intelligence, Verbal Dexterity, Charisma, and Eloquence (2021).epub
+│   ├── Learn Like a Pro Science-Based Tools to Become Better at Anything by Barbara Oakley Olav Schewe (z-lib.org).mobi
+│   ├── Life’s Amazing Secrets_ How to Find Balance and Purpose in Your Life ( PDFDrive ).epub
+│   ├── Logic made easy how to know when language deceives you by Bennett, Deborah J (z-lib.org).epub
+│   ├── Looking Inward by Swami Purnachaitanya (z-lib.org).epub
+│   ├── Love Yourself Like Your Life Depends on It by Kamal Ravikant (z-lib.org).epub
+│   ├── Luciano Ramalho - Fluent Python-O'Reilly Media, Inc. (2016).epub
+│   ├── Mark Manson - The Subtle Art of Not Giving a Fuck_ A Counterintuitive Approach to Living a Good Life-HarperCollins (2016).epub
+│   ├── Matt Parker - Humble Pi_ A Comedy of Maths Errors (2019, Penguin UK) - libgen.lc.epub
+│   ├── McManus, Karen M - One of Us is Lying (1).epub
+│   ├── Meditation and Its Methods ( PDFDrive ).epub
+│   ├── Meditation-And-Spiritual-Life.pdf
+│   ├── Michael A. Singer - The untethered soul_ the journey beyond yourself-New Harbinger Publications _ Noetic Books (2007).epub
+│   ├── Michael Bungay Stanier - How to Begin_ Start Doing Something That Matters-Michael Bungay Stanier (2021).epub
+│   ├── Michael Bungay Stanier - The Coaching Habit_ Say Less, Ask More & Change the Way You Lead Forever-Box of Crayons Press (2016).epub
+│   ├── Michael McIntyre - Life and Laughing_ My Story-Michael Joseph Ltd (2010).epub
+│   ├── Mihaly Csikszentmihalyi - Flow_ The Psychology of Optimal Experience-Harper Perennial Modern Classics (2008).epub
+│   ├── mindfulness in plain english_ 20th anniversary edition ( pdfdrive.com ).epub
+│   ├── Mindset_ How You Can Fulfill Your Potential ( PDFDrive ).epub
+│   ├── Nir Eyal - Indistractable_ How to Control Your Attention and Choose Your Life-BenBella Books (2019).epub
+│   ├── No Excuses The Power of Self-Discipline (Brian Tracy) (z-lib.org).epub
+│   ├── Olivia Fox Cabane - The Charisma Myth_ How Anyone Can Master the Art and Science of Personal Magnetism-Portfolio (2012).epub
+│   ├── Om Swami - The Big Questions of Life-HarperCollins Publishers India (2020).epub
+│   ├── Om Swami - The Hidden Power of Gayatri Mantra_ Realize your full potential through daily practice-Jaico Publishing House (5 Feb 2019).epub
+│   ├── open-eyed-meditations-practical-wisdom-for-everyday-life-pr_85c314db98ab7e63f695dd8ccf5168c1.pdf
+│   ├── Outliers The Story of Success    by Malcolm Gladwell (z-lib.org).epub
+│   ├── People Skills for Analytical Thinkers (Gilbert Eijkelenboom) (z-lib.org).mobi
+│   ├── Perfect_Questions_Perfect_Answers-Original_1977_Edition-SCAN.pdf
+│   ├── pg7452-images.epub
+│   ├── Phil M Jones - Exactly What to Say_ The Magic Words for Influence and Impact (2017, Box of Tricks) - libgen.lc.epub
+│   ├── Rajat Kanti Mitra - The Infidel Next Door-Utpal Publications (2019).epub
+│   ├── Râja Yoga_ Being Lectures by the Swâmi Vivekananda, with Patanjali’s Aphorisms, Commentaries and a Glossary of Terms ( PDFDrive ).epub
+│   ├── Randall Munroe - What If__ Serious Scientific Answers to Absurd Hypothetical Questions (2014, Houghton Mifflin Harcourt) - libgen.lc.epub
+│   ├── Range why generalists triumph in a specialized world by Epstein, David J (z-lib.org).epub
+│   ├── Robert B. Cialdini - Influence, New and Expanded The Psychology of Persuasion.epub
+│   ├── Sanghi who never went to a Shakha by Roushan, Rahul (z-lib.org).epub
+│   ├── Self-Discipline - Mark Manson.epub
+│   ├── Sharp's Dictionary of Power and Struggle ( PDFDrive ).epub
+│   ├── Shoshana Zuboff - The Age of Surveillance Capitalism_ The Fight for a Human Future at the New Frontier of Power-PublicAffairs (2019).epub
+│   ├── Shwetabh Gangwar - The Rudest Book Ever-Westland (2019).epub
+│   ├── So good they cant ignore you why skills trump passion in the quest for work you love by Cal Newport (z-lib.org).epub
+│   ├── Start with Why_ How Great Leaders Inspire Everyone to Take Action ( PDFDrive ) (1).epub
+│   ├── Steal Like an Artist 10 Things Nobody Told You About Being Creative by Austin Kleon (z-lib.org).epub
+│   ├── Stoicism and the Art of Happiness Practical Wisdom for Everyday Life (Teach Yourself) by Robertson, Donald (z-lib.org).epub
+│   ├── Sweigart, Albert - Automate the Boring Stuff with Python_ Practical Programming for Total Beginners-No Starch Press (2020_2015).epub
+│   ├── Talamantes, Jeremiah - The social engineer's playbook_ a practical guide to pretexting (2014, Hexcode Publishing) - libgen.li.epub
+│   ├── The 12 Week Year by Brian P. Moran  Michael Lennington (z-lib.org).epub
+│   ├── The 12 Week Year Get More Done in 12 Weeks than Others Do in 12 Months by Brian P. Moran, Michael Lennington (z-lib.org).epub
+│   ├── The 4-Hour Work Week by Timothy Ferriss (z-lib.org).epub
+│   ├── The 5 Elements of Effective Thinking by Edward B. Burger, Michael Starbird (z-lib.org).epub
+│   ├── The Art of Always Being Right 38 Ways to Win an Argument (Annotated) by Arthur Schopenhauer (z-lib.org).mobi
+│   ├── The Art Of Controversy by Schopenhauer Arthur (z-lib.org).rtf
+│   ├── The Art of Public Speaking The Original Tool for Improving Public Oration by Dale Carnegie (z-lib.org).epub
+│   ├── The Art of Strategy_ A Game Theorist's Guide to Success in Business and Life   ( PDFDrive ).epub
+│   ├── The Beginners Guide to Stoicism Tools for Emotional Resilience and Positivity by Matthew Van Natta (z-lib.org).epub
+│   ├── The Chronicles of Hanuman by Vilas, Shubha (z-lib.org).pdf
+│   ├── The Complete Book of Intelligence Tests 500 Exercises to Improve, Upgrade and Enhance Your Mind Strength by Philip Carter (z-lib.org).epub
+│   ├── The Compound Effect - Darren hardy ( PDFDrive ).epub
+│   ├── The Divergent Library (Divergent; Insurgent; Allegiant; The Transfer, The Initiate, The Son, The Traitor) ( PDFDrive ).epub
+│   ├── The four agreements a practical guide to personal freedom by Ruiz, Don, Miguel (z-lib.org).epub
+│   ├── The four agreements a practical guide to personal freedom by Ruiz, Don Miguel (z-lib.org).mobi
+│   ├── The Hidden Brain How Our Unconscious Minds Elect Presidents, Control Markets, Wage Wars, and Save Our Lives by Shankar Vedantam (z-lib.org).epub
+│   ├── The Like Switch An Ex-FBI Agents Guide to Influencing, Attracting, and Winning People Over by Jack Schafer, Marvin Karlins (z-lib.org).epub
+│   ├── The Magic of Thinking Big by David J. Schwartz (z-lib.org).epub
+│   ├── The Maze Runner (Maze Runner Trilogy, Book 1) ( PDFDrive ).epub
+│   ├── The Power of Habit_ Why We Do What We Do in Life and Business ( PDFDrive ) (1).epub
+│   ├── The Power of Habit_ Why We Do What We Do in Life and Business ( PDFDrive ).epub
+│   ├── The Power of Ignorance How creative solutions emerge when we admit what we don’t know by Dave Trott (z-lib.org) (1) (1) (1).epub
+│   ├── The seven habits of highly effective people _ restoring the character ethic ( PDFDrive ).epub
+│   ├── The Social Skills Guidebook by Chris MacLeod (z-lib.org) (1).epub
+│   ├── The Social Skills Guidebook by Chris MacLeod (z-lib.org).epub
+│   ├── The Spy Chronicles RAW, ISI and the Illusion of Peace by A.S Dulat, Aditya Sinha, Asad Durrani (z-lib.org).epub
+│   ├── Thinking strategically _ the competitive edge in business, politics, and everyday life ( PDFDrive ).epub
+│   ├── THINK STRAIGHT Change Your Thoughts, Change Your Life by Darius Foroux (z-lib.org).epub
+│   ├── Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career by Scott H. Young (z-lib.org).epub
+│   ├── Useful Delusions The Power and Paradox of the Self-Deceiving Brain by Shankar Vedantam (z-lib.org).epub
+│   ├── Vaclav Smil - Numbers Don't Lie - 71 Things You Need to Know About the World-Penguin Books Ltd (2020).epub
+│   ├── Vikram Sood - The Unending Game_ A Former R&AW Chief’s Insights into Espionage (2018, Penguin) - libgen.lc.epub
+│   ├── Who Will Cry When You Die Life Lessons From The Monk Who Sold His Ferrari by Robin Sharma (z-lib.org).mobi
+│   ├── Why I Killed the Mahatma_ Understanding Godse’s Defence ( PDFDrive ).epub
+│   ├── Why We Sleep Unlocking the Power of Sleep and Dreams by Matthew Walker (z-lib.org).epub
+│   ├── William E. Shotts Jr. - The Linux Command Line_ A Complete Introduction, 2nd Edition-No Starch Press (2018).epub
+│   ├── Wings of fire ( PDFDrive ).epub
+│   ├── Wolf Hall ( PDFDrive ).epub
+│   └── Words That Change Minds The 14 Patterns for Mastering the Language of Influence (Shelle Rose Charvet) (z-lib.org).epub
+└── linux
+    ├── Command Line Kung Fu_ Bash Scripting Tricks, Linux Shell Programming Tips, and Bash One-liners (2014, CreateSpace Independent Publishing Platform) - libgen.lc.epub
+    ├── Command Line Kung Fu_ Bash Scripting Tricks, Linux Shell Programming Tips, and Bash One-liners-CreateSpace Independent Publishing Platform (2014).epub
+    ├── Linux Command Line and Shell Scripting Bible (2015, Wiley) - libgen.lc.epub
+    ├── Linux Command Line_  FAST and EASY!_ Linux Commands, Bash Scripting Tricks, Linux Shell Programming Tips and Bash One-Liners (2015, CreateSpace Independent Publishing Platform) - libgen.lc.epub
+    ├── Linux_ This Book Includes 4 Manuscripts. The Underground Bible to the UNIX Operating System with Tools On Security and Kali Hacking to Understand Computer Programming, Data Science and Command Line (2020) - libgen.lc.epub
+    ├── Ray Yao, Ada R Swift_ Perl, Ruby C - Linux_ Linux Command Line, Cover all essential Linux commands. A comp...ction to Linux Operating System, Linux Kernel, For Beginners, Learn Linux in easy steps, Fast! _ A Beginner's - libgen.lc.epub
+    └── Steve Will - Linux for Beginners_ The Ultimate Beginner Guide to Linux Command Line, Linux Programming and Linux Operating System (2016) - libgen.lc.epub
+
+6 directories, 221 files
